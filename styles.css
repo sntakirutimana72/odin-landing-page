@@ -141,3 +141,23 @@ h2 {
   max-width: 100%;
   border-radius: inherit;
 }
+
+/* section 3 */
+
+.section-3 {
+  background-color: var(--ligth);
+  padding: 70px 20px;
+  color: var(--dark);
+}
+
+.section-3 blockquote {
+  margin: 0;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.section-3 span {
+  float: right;
+  font-weight: bold;
+}
